@@ -1,0 +1,543 @@
+Adam Fortunate Eagle
+Bayard Rustin
+Buffy Sainte-Marie
+Che Guevara
+D'Arcy McNickle
+Dennis Banks
+Desmond Tutu
+Duke Redbird
+Elizabeth Fry
+Eufrosina Cruz
+Farley Mowat
+Fidel Castro
+Florynce Kennedy
+Floyd "Red Crow" Westerman
+Frederick Douglass
+Gloria Steinem
+Harriet Tubman
+Haunani-Kay Trask
+Helen Keller
+John Mohawk
+John Trudell
+Julian Assange
+Leon Trotsky
+Leonard Crow Dog
+Ljubo Čupić
+Malcolm X
+Margot Kidder
+Martin Luther King Jr.
+Mary Brave Bird
+Matilda Joslyn Gage
+Mohandas Karamchand Gandhi
+Monte Melkonian
+Nelson Mandela
+Q'orianka Kilcher
+Roman Protasevich
+Rosa Parks
+Rupert Richardson
+Russell Means
+Sheila Kitzinger
+Spartacus
+Thomas Paine
+Vine Deloria Jr.
+Vladimir Lenin
+William Apess
+William Wallace
+Zitkála-Šá
+Abraham Maslow
+Ada Lovelace
+Adam Smith
+Adebowale Adefuye
+Alan Turing
+Albert Camus
+Alexander von Humboldt
+Alfred Adler
+Alfred Marshall
+Alfred North Whitehead
+Abu Ali al-Husayn ibn Sina
+Ammianus Marcellinus
+Anaxagoras
+Anaximander
+Anaximenes of Miletus
+Anselm of Canterbury
+Anthony Giddens
+Apollonius of Perga
+Archimedes
+Archytas
+Aristotle
+Arthur Eddington
+Arthur Schopenhauer
+Atticus
+Auguste Comte
+Augustine of Hippo
+Baruch Spinoza
+Benoit Mandelbrot
+Bernhard Riemann
+Bertrand Russell
+Blaise Pascal
+Boethius
+B. F. Skinner
+Carl Friedrich Gauss
+Carl Jung
+Carl Rogers
+Cassius Dio
+Charles Babbage
+Charles de Secondat
+Charles Sanders Peirce
+Christiaan Huygens
+Darko Bratina
+David Benatar
+David Hilbert
+David Hume
+David Ricardo
+David Rittenhouse
+Democritus
+Denis Diderot
+Desiderius Erasmus
+Diogenes of Sinope
+Diophantus of Alexandria
+Edmund Husserl
+Hakuin Ekaku
+Emil Cioran
+Émile Durkheim
+Empedocles
+Epictetus
+Epicurus
+Eratosthenes of Cyrene
+Erich Fromm
+Erik Erikson
+Euclid
+Évariste Galois
+Ferdinand de Saussure
+Ferdo Šišić
+Fibonacci
+Florimond de Beaune
+Florimond de Raemond
+Francis of Assisi
+Francis Bacon
+Franciscus Gomarus
+François-Marie Arouet "Voltaire"
+Freeman Dyson
+Friedrich Engels
+Friedrich Hayek
+Friedrich Nietzsche
+Gautama Buddha
+Geoffrey of Monmouth
+Geordie Williamson
+Georg Wilhelm Friedrich Hegel
+Georg Simmel
+George Berkeley
+G. E. Moore
+George Santayana
+Gerardus Mercator
+Gerolamo Cardano
+Giordano Bruno
+Giovanni Domenico Cassini
+Gorgias
+Gottfried Wilhelm Leibniz
+Gottlob Frege
+Gregory of Tours
+Guidobaldo del Monte
+Haskell Curry
+Helmuth Nyborg
+Henri Bergson
+Henri Poincaré
+Henry David Thoreau
+Heraclitus of Ephesus
+Hero of Alexandria
+Herodotus
+Hipparchus of Nicaea
+Hjalmar Schacht
+Hypatia of Alexandria
+Ibn Khaldun
+Immanuel Kant
+Isidore of Seville
+Jacques Derrida
+Jacques Lacan
+James Gregory
+Jan Hus
+Jean-François Champollion
+Jean Chauvin
+Jean Piaget
+Jean-Jacques Rousseau
+Jean-Paul Sartre
+Jeremy Bentham
+Jesus Christ
+Johann Gottlieb Fichte
+John Duns Scotus
+John Dewey
+John Maynard Keynes
+John Locke
+John Stuart Mill
+John Napier
+John Forbes Nash Jr.
+John von Neumann
+Joseph Campbell
+Joseph Fourier
+Joseph Louis Lagrange
+Joseph Schumpeter
+Josephus
+Josias Simmler
+Karl Marx
+Karl Popper
+Karl Ritter
+Katherine Johnson
+Meng Ke
+Kristalina Georgieva
+Kurt Gödel
+Laozi
+Leonhard Euler
+Leonida Tonelli
+Lev Vygotsky
+Livy
+Ljudevit Gaj
+Ljudevit Jonke
+Lucretius
+Ludwig Wittgenstein
+Mani
+Marcus Aurelius
+Martin Heidegger
+Martin Luther
+Max Weber
+Mazdak
+Mehr Abdul Haq
+Michel Foucault
+Milovan Gavazzi
+Milton Friedman
+Moses Maimonides
+Abu'l-Walid Muhammad ibn Rushd
+Muhammad
+Abu Nasr Muhammad al-Farabi
+Abu Hamid Muhammad ibn Muhammad al-Ghazali
+Muhammad al-Idrisi
+Muhammad ibn Musa al-Khwarizmi
+Muhammad al-Razi
+Nagarjuna
+Niccolò Machiavelli
+Nicholas of Cusa
+Niels Henrik Abel
+Noam Chomsky
+Omar Khayyám
+Origen
+Oriol Junqueras i Vies
+Parmenides of Elea
+Pausanias
+Peter Wessel Zapffe
+Philo
+Pierre Abélard
+Pierre Bourdieu
+Pierre-Simon Laplace
+Plato
+Plotinus
+Plutarch
+Polybius
+Protagoras
+Pyotr Kropotkin
+Pyrrho
+Pythagoras
+Sima Qian
+Kong Qiu
+Rado Lenček
+Raimond Gaita
+Raymond Aron
+René Descartes
+Reşat Ekrem Koçu
+Rudolf Steiner
+Rupert of Deutz
+Sabino Acquaviva
+Seneca the Younger
+Sigmund Freud
+Simone de Beauvoir
+Slavoj Žižek
+Socrates
+Søren Kierkegaard
+Strabo
+Suetonius
+Svetozar Stojanović
+Tacitus
+Talcott Parsons
+Tertullian
+Thales
+Theodor W. Adorno
+Theodor Mommsen
+Thomas Aquinas
+Thomas Hobbes
+Thomas Robert Malthus
+Thomas More
+Thucydides
+Toufik Mansour
+Tullio Gregory
+Sun Tzu
+Vahakn Dadrian
+Viktor Frankl
+Vilfredo Pareto
+Wilhelm Reich
+Wilhelm Wundt
+Willard Van Orman Quine
+William of Ockham
+William James
+Xenophanes of Colophon
+Xenophon
+Abu Yusuf Yaqub al-Kindi
+Zeno of Citium
+Zeno of Elea
+Zerah Colburn
+Ziya Onis
+Zoroaster
+Adolphe Sax
+Adriaan Blaauw
+Aglaonice
+Albert Einstein
+Albert Abraham Michelson
+Alberto Santos-Dumont
+Alessandro Volta
+Alexander Graham Bell
+Alexander Fleming
+Alfred Nobel
+Alfred Russel Wallace
+Alfred Wegener
+Almon Brown Strowger
+Alois Senefelder
+Amedeo Avogadro
+Amil Kumar Das
+Anders Celsius
+André-Marie Ampère
+Andreas Vesalius
+Andrei Sakharov
+Annie Jump Cannon
+Antoine Lavoisier
+Anton Pannekoek
+Antonia Maury
+Antonie van Leeuwenhoek
+Antonio Meucci
+Apollonius of Perga
+Aristarchus of Samos
+Arthur Eddington
+Asım Orhan Barut
+Augustin Mouchot
+Ayyub Guliyev
+Barnaba Oriani
+Basarab Nicolescu
+Bengt Strömgren
+Benjamin Thompson
+Britton Chance
+Bruce C. Heezen
+Camille Flammarion
+Carl Friedrich Gauss
+Carl Linnaeus
+Carl Sagan
+Caroline Herschel
+Cecilia Payne-Gaposchkin
+Charles Babbage
+C. V. Boys
+Charles Darwin
+Charles-Augustin de Coulomb
+Charles Eastman
+Charles Goodyear
+Charles David Keeling
+Charles Messier
+Christiaan Huygens
+Christian Sharps
+C. H. D. Buys Ballot
+Clair Patterson
+Claude Bernard
+Claude Pouillet
+Daniel Bernoulli
+Daniel Gabriel Fahrenheit
+Daniel B. Wesson
+David Attenborough
+David Dunbar Buick
+David Graeber
+David Rittenhouse
+Denis Papin
+Didier Queloz
+Dmitriy Mendeleev
+Edmond Halley
+Edward Jenner
+Edward Charles Pickering
+Edward Teller
+Edwin Hubble
+Ejnar Hertzsprung
+Eliphalet Remington
+Emanoil Bacaloglu
+Enrico Fermi
+Ernest Rutherford
+Ernő Rubik
+Ernst Haeckel
+Ernst Mach
+Erwin Schrödinger
+Evangelista Torricelli
+Ferdinand Porsche
+Francis Crick
+Frank Shuman
+Franz Boas
+Freeman Dyson
+Friedlieb Ferdinand Runge
+Fritz Zwicky
+Gabriel Lippmann
+Gaja Alaga
+Galen
+Galileo Galilei
+Georg Ohm
+George Henry Corliss
+George Eastman
+George Stephenson
+George Westinghouse
+Georges Cuvier
+Gerard Kuiper
+Giovanni Domenico Cassini
+Gottlieb Daimler
+Gregor Mendel
+Guglielmo Marconi
+Guidobaldo del Monte
+Gustav Kirchhoff
+Guy Stewart Callendar
+Hans Christian Ørsted
+Hedwig Kohn
+Heinrich Schliemann
+Hendrik Lorentz
+Henri Becquerel
+Henrietta Swan Leavitt
+Henry Cavendish
+Henry Ford
+Henry Norris Russell
+Henry Fox Talbot
+Herman Hollerith
+Hermann Emil Fischer
+Hermann von Helmholtz
+Hipparchus of Nicaea
+Hippocrates of Cos
+Horace Smith
+Humphry Davy
+Ibn al-Haitham
+Igor Sikorsky
+Isaac Newton
+Ivan Pavlov
+Ivan Supek
+Jabir ibn Hayyan
+Jacobus Kapteyn
+James Gregory
+James Prescott Joule
+James Clerk Maxwell
+James Watson
+James Watt
+Jan Oort
+Jane Goodall
+Jean-Pierre Blanchard
+Jean-Baptiste Lamarck
+Jim Peebles
+Johannes Gutenberg
+Johannes Kepler
+Johannes Diderik van der Waals
+John James Audubon
+John Logie Baird
+John Browning
+John Dalton
+John B. Goodenough
+John Herschel
+John Shipley Rowlinson
+Jonas Salk
+Jöns Jacob Berzelius
+Joseph Louis Gay-Lussac
+Joseph Marie Jacquard
+J. J. Thomson
+Joseph von Fraunhofer
+Julian Huxley
+J. Robert Oppenheimer
+Justus von Liebig
+Karl Benz
+Karl Ferdinand Braun
+Kathy Reichs
+Konrad Lorenz
+Konrad Zuse
+Leo Fender
+Leonardo da Vinci
+Linus Pauling
+Linus Torvalds
+Lise Meitner
+Louis Blériot
+Louis Braille
+Louis Daguerre
+Louis de Broglie
+Louis Pasteur
+Ludwig Boltzmann
+Luigi Galvani
+Cai Lun
+Marcel Minnaert
+Marie Curie
+Marie Tharp
+Maus Gatsonides
+Max Born
+Max Planck
+Michael Faraday
+Michel Adanson
+Michel Mayor
+Mijat Stojanović
+Mikhail Lomonosov
+Niccolò Cacciatore
+Nicéphore Niépce
+Nicolas-Joseph Cugnot
+Nicolaus Copernicus
+Niels Bohr
+Nikola Tesla
+Nikolaus Otto
+Ole Rømer
+Orville Wright
+Otto Hahn
+Otto Friedrich Müller
+Paracelsus
+Paul Dirac
+Pierre Curie
+Pierre-Simon Laplace
+Pieter Zeeman
+Pliny the Elder
+Primo Levi
+Ptolemy
+Rachel Carson
+Richard Arkwright
+Richard Dawkins
+Richard Feynman
+Robert Ball
+Robert Stawell Ball
+Robert Boyle
+Robert Fulton
+Robert Hooke
+Roger Penrose
+Rowland Hill
+Rudolf Diesel
+Rudolf Virchow
+Samuel Warren Carey
+Samuel Colt
+Samuel Morse
+Sarah Frances Whiting
+Sheila Kitzinger
+Slavoljub Eduard Penkala
+Stephen Hawking
+Svante Arrhenius
+Thomas Edison
+Thomas Henry Huxley
+Thomas Newcomen
+Thomas Young
+Tim Berners-Lee
+Tycho Brahe
+Valentine Ball
+Vannevar Bush
+Vera Rubin
+Vesto Slipher
+Vincas Kudirka
+Ward Goodenough
+Werner Heisenberg
+Werner von Siemens
+Wilbur Wright
+Wilhelm Maybach
+Wilhelm Ostwald
+Wilhelm Röntgen
+Wilhelm Wien
+William Herschel
+William Huggins
+William Henry Pickering
+William Thomson
+William Hyde Wollaston
+Williamina Fleming
+Willis Carrier
+Wolfgang Pauli
